@@ -1,4 +1,4 @@
-﻿namespace CoffeeShopAPI
+﻿namespace CoffeeShopAPI.Data.Models
 {
     public class Discount
     {

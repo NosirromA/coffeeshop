@@ -1,10 +1,10 @@
-﻿namespace CoffeeShopAPI
+﻿namespace CoffeeShopAPI.Data.Models
 {
     public class CoffeeType
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
 
-        public int SKU { get; set; }
+        public int Sku { get; set; }
 
         public string Name { get; set; } = string.Empty;
 
